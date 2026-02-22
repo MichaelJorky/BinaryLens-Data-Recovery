@@ -19,7 +19,7 @@
 ## Tangkapan Layar
 
 <div align="center">
-  <img src="./assets/BinaryLens Data Recovery.jpg" alt="BinaryLens Data Recovery" width="600" height="500">
+  <img src="./assets/BinaryLens Data Recovery.png" alt="BinaryLens Data Recovery" width="600" height="500">
 </div>
 
 ---
